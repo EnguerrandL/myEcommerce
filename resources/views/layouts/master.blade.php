@@ -330,7 +330,7 @@
 
 
 <footer class="blog-footer">
-    <p><a href="https://getbootstrap.com/">Enguerrand LOUIS - E-commerce</a> - 🛒 Application E-Commerce avec Laravel 6</p>
+    <p><a href="http://enguerrandlouis.fr/">Enguerrand LOUIS - E-commerce</a> - 🛒 Application E-Commerce avec Laravel 6</p>
     <p>
       <a href="#">Revenir en haut</a>
     </p>
