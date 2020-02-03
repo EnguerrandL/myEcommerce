@@ -7,7 +7,9 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Jekyll v3.8.6">
+    @yield('extra-meta')
     <title>Blog Template · Bootstrap</title>
+    @yield('extra-script')
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.4/examples/blog/">
 
@@ -335,5 +337,6 @@
       <a href="#">Revenir en haut</a>
     </p>
   </footer>
+  @yield('extra-js')
 </body>
 </html>
